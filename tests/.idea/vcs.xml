@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ardupilot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/ChibiOS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/gbenchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/libcanard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/libcanard/drivers/avr/avr-can-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/libcanard/dsdl_compiler/pyuavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/libcanard/dsdl_compiler/pyuavcan/uavcan/dsdl_files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/mavlink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/mavlink/pymavlink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan/dsdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan/libuavcan/dsdl_compiler/pyuavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan/libuavcan/dsdl_compiler/pyuavcan/dsdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/waf" vcs="Git" />
+  </component>
+</project>
